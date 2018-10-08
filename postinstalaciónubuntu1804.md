@@ -14,7 +14,7 @@ sudo apt-get dist-upgrade
 sudo apt-get install ubuntu-restricted-extras
 ```
 4. Habilitar el botón de minimizado.
-## En mi caso esto no fue necesario, pero si ves que no tienes dicho botón, simplemente, escribe_
+## En mi caso esto no fue necesario, pero si ves que no tienes dicho botón, simplemente, escribe:
 ```
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 ```
